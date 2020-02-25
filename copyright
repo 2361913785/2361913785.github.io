@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+
+
+
+	<head>
+		<meta charset="UTF-8">
+		<title>联华科技(云)技术服务-版权声明</title>
+		<meta name="description" content="关于我们 -微后台" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=1.0; maximum-scale=1.0">
+ <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" /> 
+<style>
+body {
+	background: #eee
+}
+
+.background {
+	margin: 0 auto;
+	max-width: 800px;
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+	min-width: 320px;
+	padding-bottom: 0.1px;
+	background: #FFFFFF;
+	margin-top: 56px;
+}
+
+* {
+	letter-spacing: 1px;
+	font-family: 'Helvetica', 'Droidsansfallback', 'Heiti SC';
+	box-sizing: border-box;
+	outline: none;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	text-decoration: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	color: #333;
+}
+
+
+.top {
+	height: 56px;
+	width: 100%;
+	background: #009688;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+	line-height: 56px;
+	position: fixed;
+	top: 0;
+}
+
+.title {
+	color: #FFFFFF;
+	font-size: 22px;
+	font-weight: 800;
+	margin-left: 15px;
+	padding-bottom: 20px;
+}
+
+
+.ab_t{
+	margin: 15px 18px 0px;
+	padding-top: 30px;
+	font-size: 17px;
+}
+
+.ab_show{
+	padding: 20px;
+	
+}
+.email{
+	margin-left: 18px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+
+
+
+
+</style>
+	</head>
+
+	<body>
+		<div class="top box-flex">
+			<div class="title">联华科技(云)技术服务</div>
+		</div>
+
+		<div class="background">
+			
+			
+			<div class="ab_t">版权声明</div>
+			<div class="ab_show">
+				本版权与免责声明系保证本网站的正常发展、规避意外风险而设，其初衷是为了向用户提供不间断的优质服务。
+				<br><br>
+				凡在本站发布的应用和评论，仅代表作者个人的观点和立场，其侵权或违法行为的责任由作者本人承担，本网站不承担任何法律责任。
+				<br><br>
+				所刊登的广告，均为广告商的个人意见及表达方式，和本网站无任何关系，如有侵权或违法行为应由其相关广告商承担责任。<br><br>
+				凡在本站及APP发布的所有应用，都视为发布者同意本网站免费予以使用；同时本网站认为其发布的应用有侵权、违法等行为的，有权予以修改、删除或通知发布者予以纠正的权利，发布者不得阻止或拒绝。<br><br>凡以任何直接、间接使用本网站资料者，视为自愿接受本站本项声明的约束。
+			</div>
+
+			<div class="email">
+				<p>官方QQ：
+					<a href="" style="color: #00796B;">2361913785</a>
+				</p>
+			</div>
+			
+			
+			
+			
+		</div>
+		
+		
+		
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+	</body>
+
+</html>
+
+
+
